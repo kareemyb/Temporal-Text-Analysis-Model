@@ -37,7 +37,3 @@ Contributions are welcome! If you have suggestions for improving the model or ex
 
 ## License
 This project is open-source and available under the [MIT License](https://opensource.org/licenses/MIT).
-
----
-
-By providing a detailed view of how the narrative around Black history has changed in media documents, this model serves as a powerful tool for historians, educators, researchers, and anyone interested in understanding the dynamics of historical perception through media.
